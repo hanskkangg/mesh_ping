@@ -1,0 +1,5 @@
+# Loopback IP address for my ping
+127.0.0.1
+
+# IP address for my another server
+192.168.86.129
